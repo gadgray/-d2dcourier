@@ -1,0 +1,19 @@
+{
+  "name": "d2dcourier",
+  "version": "1.0.0",
+  "description": "delivery website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gadgray/-d2dcourier.git"
+  },
+  "author": "gadgray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadgray/-d2dcourier/issues"
+  },
+  "homepage": "https://github.com/gadgray/-d2dcourier#readme"
+}
